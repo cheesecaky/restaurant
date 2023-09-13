@@ -17,9 +17,9 @@ const Chef = () => (
          <div className='app__chef-content'>
             <div className='app__chef-content_quote'>
                <img src={images.quote} alt='quote' />
-               <p className='p__opensans'>We believe Audi is better than BMW.</p>
+               <p className='p__opensans'>We believe in Good Food.</p>
             </div>
-            <p className='p__opensans'>If you arrive to our restaurant in a bimmer, we'll kindly ask you to leave. We have enough oil in the kitchen... We don't need yours all over our parking area</p>
+            <p className='p__opensans'>Auctor Sit Iaculis In Arcu. Vulputate Nulla Lobortis Mauris Eget Sit. Nulla Scelerisque Scelerisque Congue Ac Consequat, Aliquam Molestie Lectus Eu. Congue Iaculis Integer Curabitur Semper Sit Nunc.</p>
          </div>
 
          <div className='app__chef-sign'>
